@@ -1,13 +1,9 @@
 # protein-folding
 Simple Monte Carlo Protein Folding Model
 
-![Step 2](/Protein%20Folding/step2.png)
-
-<img src="/Protein%20Folding/step2.png" width="100" height="100">
-
-![Step 40](/Protein%20Folding/step40.png)
-
-![Energy](/Protein%20Folding/beste500.png)
+<img src="/Protein%20Folding/step2.png" width="200" height="100">
+<img src="/Protein%20Folding/step40.png" width="200" height="100">
+<img src="/Protein%20Folding/beste500.png" width="200" height="100">
 
 Check out for code: https://nbviewer.jupyter.org/github/bkachroo/protein-folding/blob/master/Protein%20Folding.ipynb
 
